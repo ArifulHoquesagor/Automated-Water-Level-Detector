@@ -1,0 +1,6 @@
+#1 ESP8266 (Transmitter): Used to collect water level data and transmit via LoRa.
+#2 ESP32 (Receiver): Receives water level data and displays it on the TFT display.
+#3 LoRa SX1278 Module: Long-range communication module for transmitting data.
+#4 Water Level Sensors Stainless steel probes: connected to the ESP8266 GPIO pins for detecting various water levels.
+#5 1.8" TFT Display: Used with the receiver to display the current water level and signal strength.
+#6 Other Components: Resistors, pull-down circuitry, power supply, wiring, and PCB for connections.
