@@ -4,3 +4,4 @@ Data Transmission Reliability: Implements error-checking mechanisms and retries 
 Dynamic Display: Displays water level and status information on a 1.8" TFT display.
 ESP8266 and ESP32 Compatibility: Uses ESP8266 on the transmitter side and ESP32 on the receiver side.
 Power-Saving Mode: Configured to reduce power consumption during idle periods.
+Range: Up to 15 floor
